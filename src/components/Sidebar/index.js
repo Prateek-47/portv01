@@ -2,7 +2,7 @@ import React from 'react'
 import './index.scss';
 import { Link } from 'react-router-dom';
 import logoS from '../../assets/images/Plogotransparent.png'
-import logosubtitle from '../../assets/images/logo_sub.png';
+import logosubtitle from '../../assets/images/plogo_sub.png';
 
 
 const Sidebar = () => {
